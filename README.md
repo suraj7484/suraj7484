@@ -32,7 +32,7 @@ Working across multiple GitHub identities:
 ## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,solidity,mongodb,mysql,redis,kafka,docker,aws,figma,git" />
+  <img src="https://skillicons.dev/icons?i=python,ts,flask,django,nodejs,react,nextjs,solidity,mongodb,mysql,redis,kafka,rabbitmq,docker,aws,gcp,git" />
 </p>
 
 ---
