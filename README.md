@@ -37,23 +37,21 @@ Working across multiple GitHub identities:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-### 🌐 Personal Account – `@surajburman`
+### 👨‍💻 Personal Account – [@suraj7484](https://github.com/suraj7484)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj7484&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7484&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj7484&show_icons=true&theme=github_dark&hide=stars&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suraj7484&theme=github-dark&hide_border=true)](https://github.com/suraj7484)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj7484&theme=github-compact)](https://github.com/suraj7484)
 
 ---
 
-### 🏢 Work Account – `@dzap-org`
+### 🏢 Work Account – [@surajdzap](https://github.com/surajdzap)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajdzap&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajdzap&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajdzap&show_icons=true&theme=github_dark&hide=stars&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajdzap&theme=github-dark&hide_border=true)](https://github.com/surajdzap)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajdzap&theme=github-compact)](https://github.com/surajdzap)
 
 ---
 
@@ -63,21 +61,6 @@ Working across multiple GitHub identities:
 |--------|-------------|
 | [DZap Swap & Bridge SDK](https://github.com/DZapIO/dzap-sdk) | Built the SDK powering token swaps, bridges & DCA across EVM chains |
 | [Febi.ai AI OCR Engine] | Engineered auto-accounting flow for financial docs |
-
----
-
-## 📊 Contributions Heatmap
-
-### 👨‍💻 Personal Account – [`@surajburman`](https://github.com/suraj7484)
-
-![Suraj's GitHub Contribution Heatmap](https://github-contributions-api.jogruber.de/v4/suraj7484)
-
----
-
-### 🏢 Work Account – [`@surajdzap`](https://github.com/surajdzap)
-
-![Work GitHub Contribution Heatmap](https://github-contributions-api.jogruber.de/v4/surajdzap)
-
 
 ---
 
