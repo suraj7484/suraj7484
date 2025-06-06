@@ -64,16 +64,11 @@ Working across multiple GitHub identities:
 
 ---
 
-## 📬 Connect With Me
+## 📫 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/suraj7484" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="25" width="25" />
-  </a>
-  <a href="mailto:surajburman330@gmail.com" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/DD5145" height="25" width="25" />
-  </a>
-  <a href="https://x.com/Surajburman99" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/x/000000" height="25" width="25" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR-TWITTER-HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/suraj7484)
+
+Feel free to reach out regarding collaboration, questions, or just to say hi! 😄
