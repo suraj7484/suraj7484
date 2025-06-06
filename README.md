@@ -42,7 +42,7 @@ Working across multiple GitHub identities:
 ### 🌐 Personal Account – `@surajburman`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajburman&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj7484&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj7484&theme=tokyonight" />
 </p>
 
@@ -51,7 +51,7 @@ Working across multiple GitHub identities:
 ### 🏢 Work Account – `@dzap-org`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzap-org&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajdzap&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajdzap&theme=tokyonight" />
 </p>
 
@@ -69,7 +69,7 @@ Working across multiple GitHub identities:
 ## 📈 Contributions Heatmap
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=surajburman&color=blue" alt="contribution chart" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=suraj7484&color=blue" alt="contribution chart" />
 </p>
 
 ---
@@ -77,13 +77,13 @@ Working across multiple GitHub identities:
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/surajburman" target="blank">
+  <a href="https://linkedin.com/in/suraj7484" target="blank">
     <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="25" width="25" />
   </a>
-  <a href="mailto:surajburman.dev@gmail.com" target="blank">
+  <a href="mailto:surajburman330@gmail.com" target="blank">
     <img align="center" src="https://cdn.simpleicons.org/gmail/DD5145" height="25" width="25" />
   </a>
-  <a href="https://surajburman.dev" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="25" width="25" />
+  <a href="https://x.com/Surajburman99" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/x/000000" height="25" width="25" />
   </a>
 </p>
