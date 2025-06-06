@@ -66,11 +66,18 @@ Working across multiple GitHub identities:
 
 ---
 
-## 📈 Contributions Heatmap
+## 📊 Contributions Heatmap
 
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=suraj7484&color=blue" alt="contribution chart" />
-</p>
+### 👨‍💻 Personal Account – [`@surajburman`](https://github.com/suraj7484)
+
+![Suraj's GitHub Contribution Heatmap](https://github-contributions-api.jogruber.de/v4/suraj7484)
+
+---
+
+### 🏢 Work Account – [`@surajdzap`](https://github.com/surajdzap)
+
+![Work GitHub Contribution Heatmap](https://github-contributions-api.jogruber.de/v4/surajdzap)
+
 
 ---
 
